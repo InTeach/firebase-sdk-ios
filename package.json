@@ -1,0 +1,19 @@
+{
+  "name": "firebase-sdk-ios",
+  "version": "1.0.0",
+  "description": "This directory contains the full Firebase distribution, packaged as static frameworks that can be integrated into your app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InTeach/firebase-sdk-ios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InTeach/firebase-sdk-ios/issues"
+  },
+  "homepage": "https://github.com/InTeach/firebase-sdk-ios#readme"
+}
